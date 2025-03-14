@@ -5,3 +5,6 @@ Dataset is taken from Kaggle:
 https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 
 Week 2 Task is updated
+
+Week 3 Task is updated
+Interactive interface is uploaded in name of app.py which is working on streamlit 
